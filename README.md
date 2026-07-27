@@ -11,5 +11,21 @@ Equipo de Trabajo
 Materiales y Componentes (Hardware)
 *
 
-¿Cómo funciona?
-1.
+**¿Cómo funciona?**
+
+ El dispositivo funciona por medio de un sensor de inclinación, el cual detecta si el usuario tiene una mala postura (tiene cierta inclinación) y activa un motor tipo moneda el cual vibra y le hace saber al usuario que está encorvado.
+
+**¿Para qué sirve?**
+
+ Este dispositivo busca prevenir molestias musculares, reducir el riesgo de lesiones asociadas a malas posturas prolongadas y fomentar hábitos saludables mediante una retroalimentación sencilla, discreta y en tiempo real.
+
+**Palabras clave**
+* Postura
+* Ergonomía
+* Sensor de inclinación
+* Microcontrolador
+* Motor vibrador
+* Retroalimentación háptica
+* Salud
+* Prevención
+* Electrónica
